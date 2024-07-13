@@ -13,7 +13,7 @@ function SkillContent({item}) {
 
     </div>
     <div className="flex flex-col gap-1 p-4 drop-shadow-xl border-x-2 bg-slate-100 rounded-b-xl"
-    style={{height:"38vh"}}>
+    style={{height:"250px"}}>
       <p className="text-2xl font-bold text-center">{item.title}</p>
 
       <div className="flex items-center">
